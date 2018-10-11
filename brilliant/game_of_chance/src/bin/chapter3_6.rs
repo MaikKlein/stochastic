@@ -1,3 +1,4 @@
+// https://brilliant.org/practice/russian-roulette/?p=6
 extern crate rand;
 
 fn random_piston(count: usize) -> Vec<bool> {
